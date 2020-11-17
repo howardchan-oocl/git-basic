@@ -1,2 +1,3 @@
-test test test
-add content in github
+add: add file to staging area
+commit: record stage change
+push: push the change
